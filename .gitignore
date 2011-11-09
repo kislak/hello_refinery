@@ -17,10 +17,10 @@ doc/app
 .yardopts
 
 # Public Uploads
-public/system/*
+#public/system/*
 public/themes/*
 
-# Public Cache
+ Public Cache
 public/javascripts/cache
 public/stylesheets/cache
 
